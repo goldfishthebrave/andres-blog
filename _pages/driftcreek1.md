@@ -13,3 +13,5 @@ Copy the picture into the `/assets/images/` folder and then you can include it i
 
 
 ![fullwidth](/assets/images/mangoes.jpg)
+
+
